@@ -36,4 +36,4 @@ def pdf_to_images(pdf_path):
 
 
 # Example usage
-pdf_to_images('SAHIH Al BUKHARI - ARABIC.pdf')
+pdf_to_images('y.pdf')
